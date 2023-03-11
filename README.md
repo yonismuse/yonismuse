@@ -3,6 +3,7 @@
 <h2>👨‍💻Cloud Projects:</h2>
 
 - <b>AWS</b>
+  - [Deployment of Serverless Web Application in AWS](https://github.com/yonismuse/serverlesswebunicorn)
   - [Automation in AWS with Python Tutorial](https://github.com/yonismuse/awsauto)
 
 - <b>Bash/Linux</b>
