@@ -3,7 +3,7 @@
 <h2>👨‍💻Cloud Projects:</h2>
 
 - <b>AWS</b>
-  - [Deployment of Serverless Web Application in AWS](https://github.com/yonismuse/serverlesswebunicorn)
+  - [Deployment of Serverless Web Application in AWS Tutorial](https://github.com/yonismuse/serverlesswebunicorn)
   - [Automation in AWS with Python Tutorial](https://github.com/yonismuse/awsauto)
 
 - <b>Bash/Linux</b>
@@ -16,6 +16,7 @@
 <h2>📺Popular YouTube Videos</h2>
 
 - [Automation in AWS with Python Tutorial](https://www.youtube.com/watch?v=lrjj7z6nKPk)
+- [How to Deploy a Serverless Web Application in AWS Tutorial](https://www.youtube.com/watch?v=lrjj7z6nKPk)
 
 <h2> 🤳 Connect with me:</h2>
 
