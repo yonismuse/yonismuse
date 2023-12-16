@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Azure</b>
+- <b> Azure Projects:</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/yonismuse/Azure-SOC)
+  - [Azure Vulnerability Management](https://github.com/yonismuse/openvas)
 
 
 
