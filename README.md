@@ -1,10 +1,16 @@
-<h1>Hi, I'm Yonis! <br/><a href="https://github.com/yonismuse">Programmer</a>, <a href="https://www.linkedin.com/in/yonis-muse/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Yonis, an <a href="https://www.linkedin.com/in/yonis-muse/">IT Professional</a></h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> Azure Projects:</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/yonismuse/Azure-SOC)
-  - [Azure Vulnerability Management](https://github.com/yonismuse/openvas)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/yonismuse/osTicket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/yonismuse/osticket-post)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/yonismuse/osTicket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/yonismuse/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/yonismuse/nsg-protocols)
+  - [Network File Shares and Permissions](https://github.com/yonismuse/network-file-shares)
+  - [Building Intuition for DNS](https://github.com/yonismuse/building-dns)
 
 
 
