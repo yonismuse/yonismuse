@@ -1,6 +1,11 @@
 <h1>Hi, I'm Yonis, an <a href="https://www.linkedin.com/in/yonis-muse/">IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> 🔐 Cybersecurity Projects:</h2>
+
+- <b>Security in Microsoft Azure</b>
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/yonismuse/socazure)
+  
+<h2>🖥️ Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/yonismuse/osTicket-prereqs)
