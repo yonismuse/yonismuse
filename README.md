@@ -3,18 +3,17 @@
 <h2> 🔐 Cybersecurity Projects:</h2>
 
 - <b>Security in Microsoft Azure</b>
-  - [Implementing a SOC and Honeynet in Azure](https://github.com/yonismuse/socazure)
+  - [Azure SOC & Honeynet Implementation](https://github.com/yonismuse/socazure)
   
 <h2>🖥️ Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b> Enterprise Help Desk System Implementation</b>
   - [osTicket: Prerequisites and Installation](https://github.com/yonismuse/osTicket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/yonismuse/osticket-post)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/yonismuse/osTicket-lifecycle)
-- <b>Microsoft Azure</b>
+- <b> Active Directory Infrastructure Project</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/yonismuse/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/yonismuse/nsg-protocols)
-  - [Network File Shares and Permissions](https://github.com/yonismuse/network-file-shares)
+  - [Comprehensive Network File Shares and Permissions Implementation](https://github.com/yonismuse/network-file-shares)
   - [Building Intuition for DNS](https://github.com/yonismuse/building-dns)
 
 
